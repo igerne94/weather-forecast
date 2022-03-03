@@ -69,7 +69,7 @@ function SearchMain() {
                 />
             
                 <button className="searchButton" onClick={getWeatherInfo}>
-                    !Search 
+                    Search (test)
                 </button>
             </div>
         </div>
